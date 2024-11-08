@@ -2,7 +2,7 @@ import os
 import json
 
 # 在这里定义GitHub用户名和仓库名称
-GITHUB_USERNAME = 'zxy'
+GITHUB_USERNAME = '137861368@qq.com'
 GITHUB_REPOSITORY = 'imgzxy'
 
 def generate_index_html(root_dir):
